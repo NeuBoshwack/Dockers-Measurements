@@ -8,6 +8,22 @@ table, th, td {
  border:1px solid black;
  border-collapse: collapse;
 }
+* {
+  box-sizing: border-box;
+}
+
+.img-container {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+ 
 </style>
 </head>
 <body>
@@ -22,7 +38,7 @@ table, th, td {
  and leg opening should be close to all of our men's pants in a similar fit that aren't collection items or a part of the Big and Tall products we offer. </p>
 <br>
 
-<img align="left" src="A13120035.png" alt="A13120035" style="width:375px;height:500px;"> <p text-align="right">Comfort Knit Chinos, Straight Fit</p>
+<img align="left" src="A13120035.png" alt="A13120035" style="float:left;width:375px;height:500px;"> <p text-align="right">Comfort Knit Chinos, Straight Fit</p>
 
 <table style>
  <tr>
@@ -44,14 +60,32 @@ table, th, td {
 </table>
 </div>
 
-<div> 
- <br>
- <br> 
-<h2><img align="left" src="Rise.jpeg" alt="Rise" style="width:200px;height:200px;"> <img align="center" src="Frontpocket.jpeg" style="width:200px;height:200px;"> <img align="center" src="Backpocket.jpeg" style="width:200px;height:200px;">
-<br>
-<img align="left" src="Securitypocket.jpeg" style="width:200px;height:200px;"> <img align="center" src="Zipper.jpeg" style="width:200px;height:200px;"> <img align="center" src="Legopening.jpeg" style="width:200px;height:200px;">
-</h2>
+<div class="clearfix"> 
+<h2>
+<div class="img-container">
+<img align="left" src="Rise.jpeg" alt="Rise" style="width:100%;">
 </div>
+<div class="img-container">
+<img align="center" src="Frontpocket.jpeg" style="width:100%;">
+</div>
+<div class="img-container">
+<img align="center" src="Backpocket.jpeg" style="width:100%;">
+</div>
+</div>
+<br>
+<div class"clearfix">
+<div class="img-container">
+<img align="left" src="Securitypocket.jpeg" style="width:100%;">
+</div>
+<div class="img-container">
+<img align="center" src="Zipper.jpeg" style="width:100%;">
+</div>
+<div class="img-container">
+<img align="center" src="Legopening.jpeg" style="width:100%;">
+</div>
+</div>
+</h2>
+
 
 
 
