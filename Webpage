@@ -1,19 +1,48 @@
 <!DOCTYPE HTML> 
 <title> Josh's Measurement's for Docker's Pants </title>
 <head>
-
+<style>
+table, th, td {
+ border:1px solid black;
+ border-collapse: collapse;
+}
+</style>
 </head>
 <body>
  <h1>
-  <a href="https://us.dockers.com/" target=_blank> <img src=" " alt="Docker'sLogo" style="width:42px;height:42px;">
+  <a href="https://us.dockers.com/" target=_blank> <img src="Dockerslogo.png" alt="Docker'sLogo" style="width:150px;height:80px;">
   </a>
   </h1>
 <br>
-<p>The Measurements are going to be for A1312-0035 and A1312-0006 both sized 32x30, 
-not all measurements will apply to other pairs. But the Rise and pocket measurements, 
-as well as zipper measurement should be accurate close to all of our men's pants that aren't collection items or a part of the Big and Tall products we offer. </p>
+ <p>The first set of Measurements is going to be for <a href="https://us.dockers.com/products/comfort-knit-chinos-straight-fit-a13120035" target_blank>A1312-0035</a> sized 32x30, 
+ not all measurements will apply to other pairs. With that said the Rise(As long as the pair in question "Hits at your waist" but most are), pocket measurements, zipper measurement 
+ and leg opening should be close to all of our men's pants in a similar style that aren't collection items or a part of the Big and Tall products we offer. </p>
+<br>
 
-<img src="A13120035.png" alt="A13120035">
+<img align="left" src="A13120035.png" alt="A13120035" style="width:375px;height:500px;"> <p text-align="right">Comfort Knit Chinos, Straight Fit</p>
+
+
+
+<table style>
+ <tr>
+ <th>Rise</th>
+ <th>Front Pocket Depth</th>
+ <th>Back Pocket Depth</th>
+ <th>Zipper Length</th>
+ <th>Leg Opening</th>
+ </tr>
+ <tr>
+ <td>
+ <td>10"</td>
+ <td>6.1875" or 6 and 3/16th"</td>
+ <td>5"</td>
+ <td>7.625" or 7 and 5/8th"</td>
+ </tr>
+</table>
+
+
+
+
 
 
 
